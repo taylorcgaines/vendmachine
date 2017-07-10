@@ -1,0 +1,21 @@
+{
+  "name": "vendmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "chai": "^4.0.2",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.10.8",
+    "supertest": "^3.0.0"
+  }
+}
